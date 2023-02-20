@@ -1,3 +1,3 @@
 # todo_app
  
-A simple JavaScript Todo App using.
+A simple JavaScript Todo App.
